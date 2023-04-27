@@ -11,13 +11,6 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Equipments Required:
 ## Hardware – PCs, Cyclone II , USB flasher
 ## Software – Quartus prime
-
-
-## Theory
- 
-
-## Logic Diagram
-## Procedure
 ## Program:
 ```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
